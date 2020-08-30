@@ -3,8 +3,6 @@
 [![Website](https://img.shields.io/badge/Site%20Pessoal-RGivisiez-red?style=flat&for-the-badge&logo=github)][mysite]
 
 ## Um pouco sobre mim...
-
-<div style="max-height:500px;">
 	
 - 🥼 Atualmente eu estou terminando meu doutorado em física na UFMG.
 
@@ -12,11 +10,9 @@
 
 - ☕ Tenho sempre um tempo para tomar um café ou uma cerveja 🍻.
 
-- ✨ Ando aprendendo umas coisas interessantes com Machine Learning, processamento de imagens e a escrever em inglês.
+- ✨ Ando aprendendo umas coisas interessantes como Machine Learning, processamento de imagens e a escrever em inglês.
 
 - ⚡ Fato interessante: Eu já fui benzido algumas vezes quando era criança. Para quem não sabe o que é isso, basicamente seus pais te deixam numa sala com uma pessoa mais velha que te bate com um ramo de alguma coisa enquanto murmura umas rezas 😆. Se você acha isso estranho é porque você nunca brincou com metais pesados, que nunca vão sair do seu corpo, quando era criança ☠️😁...
-
-</div>
 
 ### Links para entrar em contato comigo:
 
