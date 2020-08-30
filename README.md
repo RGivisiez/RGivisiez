@@ -6,7 +6,7 @@
 	
 - 🥼 Atualmente eu estou terminando meu doutorado em física na UFMG.
 
-- 🎮 Meus dois hobbies negligenciados no final do doutorado são jogar vídeo game e organizar uns churrascos.
+- 🎮 Meus dois hobbies, negligenciados no final do doutorado, são jogar vídeo game e organizar uns churrascos.
 
 - ☕ Tenho sempre um tempo para tomar um café ou uma cerveja 🍻.
 
