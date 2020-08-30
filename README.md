@@ -4,6 +4,8 @@
 
 ## Um pouco sobre mim...
 
+<div style="max-height:500px;">
+	
 - 🥼 Atualmente eu estou terminando meu doutorado em física na UFMG.
 
 - 🎮 Meus dois hobbies negligenciados no final do doutorado são jogar vídeo game e organizar uns churrascos.
@@ -12,7 +14,9 @@
 
 - ✨ Ando aprendendo umas coisas interessantes com Machine Learning, processamento de imagens e a escrever em inglês.
 
-- ⚡ Fato interessante: Eu já fui benzido algumas vezes quando era criança. Para quem não sabe o que é isso, basicamente seus pais te deixam numa sala com uma pessoal mais velha que te bate com um ramo de alguma coisa e enquanto fala coisas estranhas 😆. Se você acha isso estranho é porque você nunca brincou com metais pesado, que nunca vão sair do seu corpo, quando era criança ☠️😁...
+- ⚡ Fato interessante: Eu já fui benzido algumas vezes quando era criança. Para quem não sabe o que é isso, basicamente seus pais te deixam numa sala com uma pessoa mais velha que te bate com um ramo de alguma coisa enquanto murmura umas rezas 😆. Se você acha isso estranho é porque você nunca brincou com metais pesados, que nunca vão sair do seu corpo, quando era criança ☠️😁...
+
+</div>
 
 ### Links para entrar em contato comigo:
 
