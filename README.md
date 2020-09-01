@@ -6,13 +6,13 @@
 	
 - 🥼 Atualmente eu estou terminando meu doutorado em física na UFMG.
 
-- 🎮 Meus dois hobbies, negligenciados no final do doutorado, são jogar vídeo game e organizar uns churrascos.
-
-- ☕ Tenho sempre um tempo para tomar um café ou uma cerveja 🍻.
+- 🎮 Meus dois hobbies, negligenciados no final do doutorado, são jogar vídeo game e organizar umas festas.
 
 - ✨ Ando aprendendo umas coisas interessantes como Machine Learning, processamento de imagens e a escrever em inglês.
 
-- ⚡ Fato interessante: Eu já fui benzido algumas vezes quando era criança. Para quem não sabe o que é isso, basicamente seus pais te deixam numa sala com uma pessoa mais velha que te bate com um ramo de alguma coisa enquanto murmura umas rezas 😆. Se você acha isso estranho é porque você nunca brincou com metais pesados, que nunca vão sair do seu corpo, quando era criança ☠️😁...
+- ☕ Tenho sempre um tempo para tomar um café ou uma cerveja 🍻, principalmente com os amigos.
+
+- ⚡ Fato interessante: Eu já fui benzido algumas vezes quando era criança. Para quem não sabe o que é isso, basicamente, seus pais te deixam numa sala com uma pessoa mais velha que te bate com um ramo de alguma coisa enquanto murmura umas rezas 😆. Isso era tão comum quanto brincar com o mercúrio do termômetro.
 
 ### Links para entrar em contato comigo:
 
