@@ -1,6 +1,4 @@
-<!-- ### Quando sobra tempo eu escrevo algumas coisas...
-
-[![Website](https://img.shields.io/badge/Site%20Pessoal-RGivisiez-red?style=flat&for-the-badge&logo=github)][mysite] -->
+[![Website](https://img.shields.io/badge/Site%20Pessoal-RGivisiez-red?style=flat&for-the-badge&logo=github)][mysite]
 
 ## Um pouco sobre mim...
 	
