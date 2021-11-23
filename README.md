@@ -18,7 +18,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[mysite]: https://rgivisiez.github.io/
-[twitter]: https://twitter.com/ronaldogivisiez
-[instagram]: https://instagram.com/ronaldo_givisiez
-[linkedin]: https://linkedin.com/in/ronaldo-givisiez/
+[mysite]: https://rgivisiez.github.io/?target=_blank
+[twitter]: https://twitter.com/ronaldogivisiez/?target=_blank
+[instagram]: https://instagram.com/ronaldo_givisiez/?target=_blank
+[linkedin]: https://linkedin.com/in/ronaldo-givisiez/?target=_blank
