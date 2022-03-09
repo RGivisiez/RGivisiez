@@ -2,9 +2,9 @@
 
 ## Um pouco sobre mim...
 	
-- 🥼 Atualmente estou terminando meu doutorado em física na UFMG.
+- 🥼 Acabei de concluir meu doutorado em física.
 
-- 🎮 Meus hobbies, que estão sendo negligenciados no final do doutorado, são jogar vídeo game, ler e sair com os amigos.
+- 🎮 Meus hobbies são jogar vídeo game, ler e sair com os amigos.
 
 - ✨ Ando aprendendo umas coisas interessantes como Machine Learning, processamento de imagens, HTML e a escrever em inglês.
 
