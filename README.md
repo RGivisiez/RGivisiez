@@ -1,15 +1,14 @@
 [![Website](https://img.shields.io/badge/Site%20Pessoal-RGivisiez-red?style=flat&for-the-badge&logo=github)][mysite]
 
-## Um pouco sobre mim...
-	
-- 🥼 Acabei de concluir meu doutorado em física.
+## A little about me...
+- 🥼 I've just completed my Ph.D. in physics.
 
-- 🎮 Meus hobbies são jogar vídeo game, ler e sair com os amigos.
+- 🎮 My hobbies are playing video games, reading, and hanging out with friends.
 
-- ✨ Ando aprendendo umas coisas interessantes como Machine Learning, processamento de imagens, HTML e a escrever em inglês.
+- ✨ I'm currently learning some interesting things like Machine Learning, image processing, HTML, and how to write in English.
 
-- ☕ Tenho sempre um tempo para tomar um café ou uma cerveja 🍻, principalmente com os amigos.
-
+- ☕ I always have time for a coffee or a beer 🍻, especially with friends.
+- 
 <!-- - ⚡ Fato interessante: Eu já fui benzido algumas vezes quando era criança. Para quem não sabe o que é isso, basicamente, seus pais te deixam numa sala com uma pessoa mais velha que te bate com um ramo de alguma coisa enquanto murmura umas rezas 😆. Antigamente isso era tão comum quanto brincar com o mercúrio do termômetro. -->
 
 ### Links para entrar em contato comigo:
