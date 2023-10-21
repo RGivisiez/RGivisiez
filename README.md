@@ -3,9 +3,9 @@
 ## A little about me...
 - 🥼 I've just completed my Ph.D. in physics.
 
-- 🎮 My hobbies are playing video games, reading, and hanging out with friends.
+- 🎮 My hobbies are playing video games and reading.
 
-- ✨ I'm currently learning some interesting things like Machine Learning, image processing, HTML, and how to write in English.
+- ✨ I'm currently learning machine learning and statistics.
 
 - ☕ I always have time for a coffee or a beer 🍻, especially with friends.
 
