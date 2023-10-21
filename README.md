@@ -11,7 +11,7 @@
 
 <!-- - ⚡ Fato interessante: Eu já fui benzido algumas vezes quando era criança. Para quem não sabe o que é isso, basicamente, seus pais te deixam numa sala com uma pessoa mais velha que te bate com um ramo de alguma coisa enquanto murmura umas rezas 😆. Antigamente isso era tão comum quanto brincar com o mercúrio do termômetro. -->
 
-### Links para entrar em contato comigo:
+### Contact Links:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
