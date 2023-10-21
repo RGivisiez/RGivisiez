@@ -8,7 +8,7 @@
 - ✨ I'm currently learning some interesting things like Machine Learning, image processing, HTML, and how to write in English.
 
 - ☕ I always have time for a coffee or a beer 🍻, especially with friends.
-- 
+
 <!-- - ⚡ Fato interessante: Eu já fui benzido algumas vezes quando era criança. Para quem não sabe o que é isso, basicamente, seus pais te deixam numa sala com uma pessoa mais velha que te bate com um ramo de alguma coisa enquanto murmura umas rezas 😆. Antigamente isso era tão comum quanto brincar com o mercúrio do termômetro. -->
 
 ### Links para entrar em contato comigo:
